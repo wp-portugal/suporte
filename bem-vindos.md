@@ -1,119 +1,156 @@
-Bem-vindos ao Fórum de Suporte
+Esta é a página de boas-vindas ao fórum de suporte ao WordPress em português de Portugal.
 
-Esta página é uma mensagem de boas-vindas aos fóruns de suporte do WordPress de Portugal. Esperamos que este documento seja útil para você, uma vez que é destinado ser um manual de “começo rápido” ao invés de uma documentação completa. Esta introdução foi projetada para ajudá-lo(a) a encontrar o seu caminho em torno dos fóruns e começar a usar o mais rápido possível.
-Antes de publicar, tenha certeza que esta publicando sobre um site que utiliza o WordPress.org e NÃO o WordPress.com. Caso você não tenha certeza, leia o artigo WordPress.com e WordPress.org para entender a diferença.
+Esperamos que este documento lhe possa ser útil, tal como um manual de iniciação rápida para  lhe ajudar a utilizar os fóruns e começar a tirar partido o mais rápidamente possível. 
+Antes de publicar certifique-se que a sua questão, dúvida ou pedido de ajuda diz respeito a recursos (plugins, temas, etc.) disponibilizados na plataforma do site wordpress.org e NÃO wordpress.com (em caso de dúvidas, poderá consultar o artigo [link?]As diferenças entre WordPress.com e WordPress.org[/link?] para compeender a diferença.
 
-Estes fóruns são destinados para questões que envolvem o núcleo do WordPress, temas e plugins que são distribuídos no WordPress.org. Então note que não fazemos suporte para temas, plugins ou qualquer produto comercial.
+O objetivo principal deste fórum é auxiliar, ajudar ou simplesmente esclarecer quaisquer questões que envolvem quer o núcleo do WordPress, os temas e os plugins que são distribuídos na plataforma do site wordpress.org. Embora uma ou outra vez se possa falar ou até debater uma ou outra questão relacionada com temas ou plugins de origem comercial, a regra geral é 
+a de que pro aqui, não nos é possível dar apoio ou suporte a esses produtos comerciais. Para o efeito, deverão ser contactados as respetivas empresas e/ou entidades responsáveis.
 
-PESQUISE PRIMEIRO
 
-Muitas das perguntas que são feitas no fórum já foram publicadas muitas vezes antes e recebem a mesma resposta todas as vezes. Antes de iniciar um novo tópico, tente pesquisar no fórum. Note que tanto os fóruns como também o Codex são indexados pelo Google, então se você não consegue encontrar a sua resposta pesquisando no fórum, é recomendado pesquisar no Google também (por exemplo, pesquisando no Google da seguinte forma: site:pt.wordpress.org/support widget). Se você encontrar um tópico que descreve um problema semelhante ao seu, leia ele, mas não publique no tópico fazendo a mesma pergunta ou pedindo por ajuda.
+
+ANTES DE PUBLICAR, PESQUISE
+
+Muitas das questões que são frequentemente colocadas no fórum já foram publicadas por outros membros em momentos anteriores, contendo inclusivamente, a solução para os respetivos problemas ou as pistas e/ou sugestões essenciais para se encontrar a solução, pelo que, antes de iniciar um novo tópico, tente pesquisar no fórum, uma vez que, quer os tópicos contidos no fórum, quer os conteúdos contidos no Codex são indexados pelo Google.
+
+Caso não consiga encontrar a resposta através das pesquisas no fórum, será sempre uma excelente ideia começar por pesquisar no Google. As pesquisas no Google podem ser filtradas de forma a devolver resultados apenas e somente a partir de conteúdos existentes no fórum, usando a seguinte sintaxe no campo de pesquisa do Google:
+   site:pt.wordpress.org/support pesquisa (em que "pesquisa" será o termo pelo qual irá tentar encontrar resultados)
+
+Se encontrar um tópico mais antigo que descreva um problema semelhante ao seu, é recomendado que leia e que tente verificar se ajuda na solução do seu problema, mas, caso não resolva, não deverá colocar uma resposta nesse tópico, uma vez que o mesmo não irá obter destaque diante de quem se voluntaria para tentar ajudar. Inicie um novo tópico com a sua questão e mais rapidamente irá obter ajuda.
+
+
 
 ONDE PUBLICAR
 
-O fórum é dividido em sessões, com cada fórum tendo sua própria descrição na página inicial. Tente escolher a sessão que seja mais adequada para o seu novo tópico e publique em apenas uma sessão. Publicações duplicadas serão fechadas ou deletadas. Sempre comece o seu próprio tópico para as suas dúvidas, com exceção é claro, que você esteja utilizando a mesma versão do WordPress, no mesmo servidor e utilizando os mesmo plugins, temas e configurações que o autor original do tópico, caso o contrário, nunca publique suas dúvidas em tópicos de outras pessoas. Para criar o seu tópico selecione uma sessão na página inicial do fórum, depois vá até o final da página para encontrar o formulário, onde é necessário preencher o título, selecionar a versão do WordPress e escrever o conteúdo do seu tópico.
+O fórum está organizado através de diversas secções, nomeadamente "Avisos e dicas importantes", "Instalação", "Problemas no funcionamento", "Temas e templates", "Plugins e hacks", "Questões avançadas", "Tradução", "Ideias", "Montra", "Alpha/Beta", "Miscelânea" e "Multisite". [[dúvida: colocar antes esta informação em árvore?]]
 
-Caso você tenha dúvida sobre um tema ou plugin em especifico, recomendamos que você escreva o nome do tema ou plugin no campo de “Tags do tópico”, isso torna o tópico mais visível para aqueles que conhecem sobre encontrarem o seu tópico e responderem a sua pergunta.
+Escolha a secção que mais se adequa à sua questão e publique apenas nessa secção, uma vez que as publicações duplicadas terão que ser eliminadas.
 
-ESCOLHA UM BOM TÍTULO PARA O SEU TÓPICO
+Uma vez dentro da secção que corresponda à sua dúvida, procure o formulário que se encontra mais abaixo na página para redigir e publicar a sua mensagem.
+Para além de do título (que deverá ser um breve mas claro resumo do seu problema), deverá indicar a versão do WordPress e redigir o texto com a sua dúvida / questão no campo destinado para o efeito.
 
-Ao começar um novo tópico, sempre tente escolher um título apropriado para ele. Por exemplo “Erro no banco de dados ao criar um novo post” é um bom título. Entretanto “[URGENTE] ME AJUDE!!!” é um péssimo título. Um bom título pode ser a diferença entre receber ajuda ou não, pois quanto mais claro for o seu título, mais fácil será para outras pessoas encontrarem o seu tópico e ajudar.
 
-INCLUA O MÁXIMO DE INFORMAÇÕES POSSÍVEL
 
-Ao começar um novo tópico, coloque todos os detalhes que for possível sobre a sua dúvida ou problema. Em especial se for um problema, é recomendado que você inclua detalhes sobre o seu ambiente de hospedagem, instalação do WordPress (plugins, temas e etc.) e o problema que você esta tendo. Caso esteja vendo erros, copie cada palavra e inclua também no tópico. Incluir o erro completo é sempre melhor que apenas um resumo sobre ele, algumas vezes certas palavras da mensagem de erro podem ser importantes para conseguir a solução, sem esquecer de um detalhe muito importante, descreva exatamente os passos que você tomou antes de aparecer o erro.
+OS PEDIDOS DEVERÃO SER ESPECÍFICOS
 
-Você pode publicar links de imagens de tela (screenshots) para ilustrar o seu problema, entretanto as vezes é necessário ainda o link do seu site, pois muitas vezes os voluntários irão precisar ver o problema para constatar se esta quebrado ou não.
+Frequentemente, os pedidos de ajuda não são específicas, o que aumenta o tempo de resolução dos problemas. Quanto mais específica for a questão, mais rapidamente se conseguirá chegar a soluções.
 
-LINK PARA O SEU SITE
+Um dos pontos mais essenciais para uma melhor ajuda por parte de quem se voluntaria será incluír ligações para o site em questão (caso este esteja publicado na internet e seja de acesso público) ou para uma zona específica do site ou artigo em que diagnosticou o problema.
 
-Caso você está pedindo ajuda e sua pergunta refere-se a um site ou página específica, forneça um link. Isto pode ajudar os outros quando eles estão tentando ajudá-lo.
+Se o problema surge após uma determinada série de passos, identifique-os e relate detalhadamente para que a equipa de suporte os consiga replicar.
 
-Porém, lembre-se, o fórum não é projetado para ser um portal de links, então evite o excesso de links e tenha em mente que eles serão moderados, como links em assinaturas ou links não associados a pergunta.
+Se conseguir associar capturas de ecrã (usando um serviço na internet como o "snag.gy") ou até um "screencast" (usando, por exemplo, o "record.it"), irá fornecer uma preciosa ajuda e assim conseguir obter uma resposta mais rápida. Não será necessário grande esforço na tentativa de obter vídeos vistosos, pois na grande maioria das vezes, um pequeno vídeo com menos de um minuto poderá fazer toda a diferença. Sempre que os pedidos são bem documentados, todo o processo de ajuda será sempre muito mais ágil.
 
-Fique também ciente de que os links não serão removidos a qualquer momento posterior, a não ser em circunstâncias extremas, ficando assim praticamente impossível de remover ou editar certos links simplesmente porque você não tem mais o site ou mudou de endereço.
+Se possível, tente incluír a visualização do modo "ferramentas do programador" do seu navegador, uma vez que alguns erros de JavaScript são facilmente detetados através dessa funcionalidade, bastando para tal, ativar a opção "Inspeccionar elemento" com o botão direito do rato sobre a área a analisar.
 
-ASSINATURAS
 
-Não é permitido utilizar o seu perfil do WordPress.org para fazer propaganda de qualquer forma. Isto também inclui assinaturas com links.
 
-AVISE SOBRE CONTEÚDO ADULTO
+UM BOM TÍTULO É ESSENCIAL
 
-Alguns sites contêm conteúdo que não é adequado para o público em geral ou para a visualização em local de trabalho ou público. Para evitar criar problemas para qualquer que estão tentando ajudá-lo, por favor, adicione NSFW ao título do tópico e no campo de tags, como um aviso, se você acha que seu site se enquadra nessa categoria. Caso o contrário, seu tópico ou link pode ser removido.
+Ao redigir o seu pedido de ajuda, tente resumir a sua questão com um título apropriado. Por exemplo “Erro na base de dados ao criar um novo artigo” será um bom título, enquanto que “[URGENTE] AJUDA!!!” será um péssimo título e até poderá afastar qualquer potencial ajuda de forma imediata.
 
-NÃO TENTE FURAR A FILA (BUMP)
 
-Não tente trazer seu tópico de volta para o topo da lista, isto não ajuda seu tópico a ser notado. Os voluntários que tentam responder as perguntas olham primeiro aquelas que não tem nenhuma resposta. Se você cria uma resposta tentando trazê-lo de volta, isso faz com que ele desapareça da lista de “Tópicos sem resposta”.
+A UTILIZAÇÃO DE ETIQUETAS É PRECIOSA
 
-Resposta longa: nós temos uma forma de identificar os tópicos que não tem resposta, e nós exibimos estes tópicos em uma lista. Esta lista exibe todos os tópicos que ainda não receberam nenhuma resposta ou comentário. Quando sua pergunta sai da primeira página do fórum a chance dela ser encontrada é levemente reduzida, mas ainda há uma chance dela ser achada na lista de “sem-respostas”, especialmente quando alguns voluntários usam essa lista para priorizá-las em relação aos tópicos já respondidos. Sua pergunta sem resposta ainda estará viva na lista de “Sem Resposta” mesmo que ela não esteja mais na primeira página do fórum. Quando a sua pergunta recebe qualquer resposta ela não aparece mais na lista de “Sem Resposta”. Não importa na maioria das vezes porque as pessoas respondendo lá já estão ajudando, mas atrapalha quando é você mesmo que está respondendo seu próprio post só para tentar trazê-lo de volta. Você pode pensar que está se ajudando fazendo isso, mas na verdade está se prejudicando a longo prazo, e é no longo prazo que você tem que se concentrar, já que esses fóruns mantidos por voluntários podem ter dificuldade para fornecer ajuda em um prazo muito curto.
+As etiquetas ajudam a melhor conseguir classificar o seu problema, permitindo uma organização e visibilidade muito mais precisa para quem possa estar mais apto a poder ajudar. É por isso recomendável que inclua as etiquetas (palavras) que estejam associadas com a sua questão, como por exemplo, o nome do plugin, do tema, da tecnologia, da funcionalidade ou simplesmente dos tópicos que estejam relacionados com a sua questão.
 
-Se você quer ajudar, não tente trazer seu tópico para a primeira página de novo.
 
-Os moderadores excluirão este tipo de resposta assim que eles encontrarem. Isto ajudará seu tópico a voltar para a lista de Sem Resposta, onde há uma chance maior de você receber ajuda.
 
-PUBLICANDO CÓDIGO
+INCLUA O MÁXIMO DE INFORMAÇÃO POSSÍVEL
 
-Quando você precisa de ajuda com código, você pode publicar ele no fórum, tornando bem mais simples para alguém lhe ajudar.
+Ao iniciar um novo pedido, tente colocar o máximo de detalhes que for possível sobre a sua dúvida ou problema. É recomendavel que inclua detalhes sobre o ambiente de hospedagem, a instalação do WordPress (plugins, temas, etc.) e especificamente, qual o problema que está a enfrentar.
 
-Dito isto, recomendamos que você sempre utilize o botão “code” do editor, assim vai colocar o seu código entre “`” para exibir corretamente no tópico. Para fazer isso, basta escrever o código no tópico, depois selecionar todo o código e clicar no botão “code” (como se estivesse fazendo uma citação).
+Caso consiga visualizar erros ou códigos de erros, tente copiar e colar no seu tópico. Incluir o erro completo será sempre preferível do que apenas um resumo sobre o mesmo, pois certas mensagens de erro podem ser importantes para diagnosticar e identificar possíveis soluções.
 
-Caso você não faça isso, tem uma grande chance do conteúdo do seu tópico ser pego pelo anti-spam do fórum e teremos que corrigir o tópico para você.
+Se possível, descreva de forma exata quais os passos que foram tomados antes de identificar o erro.
 
-PUBLICANDO UM GRANDE TRECHO DE CÓDIGO
 
-Quando você publica um trecho grande de código, isso normalmente dificulta a leitura do tópico. Ao invés disso, nós pedimos que você copie seu código em um Pastebin ou Gist e coloque o link no seu tópico.
 
-O que define um “grande trecho” é difícil dizer. Certamente, se você irá citar um arquivo php/css/js inteiro, coloque-o no pastebin. Para qualquer coisa abaixo de 100 linhas, pedimos que você use o bom senso. Considere que você está pedindo suporte grátis para as pessoas e é muito mais fácil de ler um pastbin/gist do que um bloco de 150 linhas de código multi-identado. Rolar para os lados, assim como para cima e para baixo, tentando entender o código através de uma caixinha limitada demais é uma atividade que consome um tempo que poderia estar sendo usado para responder as perguntas em si.
+O QUE NÃO DEVE FAZER
 
-Atenção: Qualquer coisa que você coloque em tópicos de fórum ou em um pastebin é pública. Qualquer um pode vê-la. Não publique nenhuma senha ou informação pessoal.
+Não é permitido qualquer tipo de publicidade sob qualquer forma ou meio no fórum de apoio e suporte. Preste bastante atenção às assinaturas com ligações, uma vez que poderão estar a violar esta regra.
 
-OFERECENDO PAGAMENTO
 
-O WordPress é um software gratuito e este fórum é gratuito também, então não encorajamos a utilização dos fóruns para oferecer pagamentos. Caso você comece um tópico pedindo ajuda e oferecendo dinheiro, e ainda informando suas informações de contatos, não iremos deletar o tópico, entretanto o tópico será fechado.
 
-Qualquer tópico que oferece serviços por dinheiro pode ser fechado a qualquer momento. Não temos nada contra serviços pagos, mas o fórum não é o lugar correto para publicar isso.
+CONTEÚDOS PARA ADULTOS
 
-Alguns voluntários do fórum podem lhe aconselhar a buscar ajuda profissional no WP Jobs. Por favor, não entenda isso como um gesto rude, pois o principal motivo para isso é que você pode precisar de mais ajuda do que é possível oferecer neste fórum.
+Poderá dar-se o caso de necessitar de auxílio para um site em que o conteúdo do mesmo não seja adequado para o público em geral ou cuja visualização em local de trabalho ou público seja comprometedora. Para evitar possíveis problemas para quem possa estar em posição de ajudar por favor, adicione a sigla NSFW (Not Safe For Work) ao título do tópico bem como no campo de etiquetas, de forma a avisar de que o seu site se enquadra nessa categoria. Caso não o faça, o seu tópico ou ligações poderão ser removidas.
 
-OFERECENDO-SE PARA TRABALHAR
 
-Não ofereça os seus serviços ao responder tópicos. Se você esta querendo ajudar nos fóruns, então ajude nos fóruns. Utilize o WP Jobs caso você esteja procurando por trabalho. Estamos todos felizes por todo mundo que ganha a vida trabalhando com WordPress, mas queremos manter o suporte nos fóruns totalmente gratuito.
 
-PRODUTOS COMERCIAIS
+ESPERE E NÃO DESESPERE
 
-Se você usa um tema ou plugin comercializado e precisa de suporte, por favor vá até o canal oficial de suporte deles. Para que possamos ajudar a comunidade WordPress, encorajar a inovação e o progresso, nós achamos importante direcionar as pessoas para esses lugares oficiais. Isso dará ao desenvolvedor o que ele precisa para fazer o WordPress mais incrível.
 
-Os voluntários do fórum não tem acesso a produtos comerciais, então eles não saberiam o porquê de seu tema ou plugin não estar funcionando. Esta é outra razão pela qual os voluntários lhe direcionam para os vendedores de produtos comercializados. O vendedor é responsável pelo suporte de seu produto comercial.
+Nem sempre será possível obter respostas no período de tempo tão curto como seria de esperar à partida, por isso, não deverá fazer com que o seu tópico vá de novo para o topo da lista (vulgo "BUMP"), pois isso não irá ajudar a ganhar mais visibilidade ao seu assunto.
+
+Quem se voluntaria para tentar responder às questão irá sempre pesquisar primeiro pelos tópicos que ainda não contenham nenhuma resposta, pelo que, se colocar uma resposta no seu tópico, na tentativa de dar-lhe mais visibilidade, irá fazer com que o mesmo desapareça da lista de “Tópicos sem resposta”.
+
+
+
+PUBLICAR CÓDIG FONTE
+
+Quando necessitar de ajuda ou esclarecimento com código de programação, poderá utilizar o votão “code” do editor para o efeito, o que irá fazer com que o o seu código seja apresentado entre plicas (`) de forma a ser corretamente exibido no tópico, mas tente não colocar grandes trechos de código, uma vez que isso irá complicar a leitura do texto o que poderá demorar na compreensão do seu problema. Mas use sempre bom senso.
+
+Recorde-se que está a participar numa plataforma de software livre e grátis e que o apoio prestado por aqui é dado por pessoas que se voluntariam e dispensam o seu tempo livre para vir ajudar.
+
+Se necessitar de publicar grandes trechos de código, deverá utilizar ferramentas na internet para o efeito, tais como "pastbin" e/ou "gist" ao invés de colcar um bloco de 150 linhas de código multi-identado.
+
+
+
+NÃO PUBLIQUE INFORMAÇÃO CONFIDENCIAL OU SENSÍVEL
+
+Recorde-se que este fórum é público e que, por isso, não deverá publicar informação pessoal confidencial ou sensível, e muito menos senhas de acesso ou códigos para iniciar sessão no seu ou em outros sites.
+
+
+
+SERVIÇOS PAGOS
+
+O WordPress é um software gratuito, tal como este fórum, pelo que é de todos desencorajada a utilização desta plataforma para oferecer ou solicitar serviços pagos e/ou comerciais. Para o efeito, a comunidade dispõe de um canal apropriado designado "Oportunidades" e, em certos casos, se não se conseguir encontrar soluções para as questões colocadas, poderá ser sugerido que coloque o seu pedido de apoio profissional no seguinte endereço:
+ http://oportunidades.wp-portugal.com/
+
+
 
 ONDE FOI PARAR A MINHA PUBLICAÇÃO?
 
-Se você sair do fórum e não conseguir encontrar seu tópico quando voltar, você pode ver uma lista de todos os tópicos em que está envolvido, na página do seu perfil. Para ver o seu perfil, clique no link (Seu nome de usuário) no canto superior direito, no topo de cada página do fórum.
+Se saiu do fórum e não conseguiu encontrar o seu tópico ao regressar, poderá consultar a lista de todos os tópicos em que participou na página do seu perfil. Para tal, deverá clicar na ligação [[?**o seu nome de utilizador**??]] no canto superior direito, no topo de cada página do fórum.
 
-Nota: O link para ver seu perfil só estará disponível depois que você se logar. Você pode querer fazer isso agora https://login.wordpress.org/?redirect_to=https://pt.wordpress.org/support/, caso não esteja logado.
+ Nota: A lingação para consultar o seu perfil só estará disponível depois iniciar sessão. (Caso pretenda iniciar agora, clique em (https://login.wordpress.org/?redirect_to=https://pt.wordpress.org/support/)
 
-Se você sabe que postou mas não consegue encontrá-lo, ele pode ter ficado bloqueado pelo nosso poderoso filtro de spam. Se isso acontecer, não entre em pânico. Um dos voluntários vai encontrá-lo e limpá-lo, geralmente dentro de uma hora. Você pode ser bloqueado como “spammer” se você postar muitas vezes seguidas, ou se seus posts são todos iguais (sim, ele pode verificar isso), e uma série de outras causas potenciais. Isso acontece com quase todo mundo pelo menos uma vez. Não se preocupe muito sobre isso.
 
-AJUDANDO
+Se publicou um tópico mas mesmo assim não o consegue encontrar, poderá dar-se o caso do mesmo ter ficado bloqueado pelo nosso filtro de prevenção de SPAM. Caso assim tenha ocorrido, não entre desespere. Um dos voluntários irá encontrá-lo e analisar o conteúdo que possa estar a ativar o filtro ou simplesmente aprovar o tópico e colocá-lo novamente disponmível para consulta pública. 
 
-Se você está aqui para ajudar os outros, você pode ver uma lista rápida de tópicos sem resposta usando o link de Tópicos sem resposta na parte de baixo da página principal. O filtro “Sem Respostas” é frequentemente usado pelos colegas para encontrar qual pergunta responder em seguida. Esta é outra boa razão porque ninguém deveria tentar trazer seus tópicos de volta ao começo da fila. Isso é desencorajado e respostas com essa finalidade podem ser excluídas pelos moderadores.
+Preste atenção que, caso publique muitas mensagens semelhantes num curto perído de tempo, o seu acesso poderá ser temporariamente bloqueado 
 
-Se você está ajudando, faça seu melhor para assistir completamente a pessoa com problemas, e não use sua ajuda para promover seu próprio site/temas/plugins. Nós desaprovamos este tipo de comportamento.
 
-Por este motivo, nós também pedimos que você não peça pagamento, solicite trabalho ou leve a conversa para algum lugar privado. O objetivo de ajudar nos fóruns do WordPress.org é ajudar nos próprios fóruns. Lembre-se, nós não queremos que isso aconteça. Deixe alguma coisa para a próxima pessoa com o mesmo problema.
 
-REPORTANDO TÓPICOS
+AJUDE TAMBÉM A AJUDAR
 
-Para reportar um tópico ruim (spam etc.), adicione nele uma tag chamada ‘modlook’. Está anotação é verificada regularmente pela equipe de moderação.
+Ajudar no fórum é uma forma bastante altruísta de participar no conceito WordPress. Uma vez que toda a plataforma depende do tempo de pessoas que dispendem do seu tempo pessoal para se voluntariar a ajudar, será com o melhor agrado que deixamos o convite para que participe nos tópicos existentes, deixando respostas com sugestões, auxílios, ajudas ou ligações para artigos que possam conter soluções para os problemas colocados pelos utilizadores.
 
-A tag modlook é apenas para relatar problemas com o fórum em si – utilizar esta tag na esperança de atrair a atenção de um moderador para a sua pergunta não será bem visto. Não coloque a tag modlook em sua pergunta, coloque apenas em coisas como spam, pessoas que utilizam assinaturas em seus tópicos, ou tópicos duplicados. Coisas que um moderador do fórum deve ver e corrigir.
+Começe por clicar na ligação "Tópicos sem resposta" e verificar se poderá contribuir com respostas que possam levar à solução dos problemas apresentados.
 
-Note que não é necessário apontar o problema real, seja com um comentário ou com tags adicionais. Nossos moderadores são inteligentes. Eles mesmos vão fazer a verificação da anotação, encontrar o problema e lidar com ele adequadamente. Adicionar seus próprios comentários dificultará ainda mais a limpeza, por isso, não faça a menos que sinta que a natureza do problema é pouco clara como um tópico duplicado (ou quadruplicado).
+A comunidade apenas é possível com a participação de todos. Muito obrigado pela sua participação!
 
-CHAT DO FÓRUM
 
-Se você gostaria de discutir algum aspecto do fórum, relatar um problema com o próprio fórum ou contribuir, utilize o canal #forum-oficial no Slack da comunidade do WordPress Portugal.
 
-Note que o canal é para discutir questões sobre o fórum e não para publicar sobre seus problemas e dúvidas com WordPress.
+DENUNCIAR CONTEÚDO IMPRÓPRIO OU ILEGAL
+
+Poderá ajudar na organização e manutenção do fórum denunciando conteúdo que possa ser impróprio ou ilegal. Para o efeito, solicitamos que inclua a etiqueta ‘modlook’ nos tópicos que possam apresentar SPAM, publicidade não solicitada, conteúdos ilegais ou impróprios, o que irá ajudar à verificação dos mesmos por parte da equipa de moderação, mas, como sempre, use o devido bom senso para o efeito.
+
+
+
+EVITE CONVERSAS OU DEBATES PARALELOS
+
+Evite ao máximo inciar ou promover conversas ou debates paralelos no fórum. Caso pretenda relatar problemas ou sugestões respeitantes ao próprio fórum utilize o canal de debates #forum no Slack da comunidade portuguesa de WordPress, mas não use o mesmo para pedidos de ajuda ou suporte.
+
+
+
+
+
+
+[[ ### Não consegui continuar para além daqui ## ]]
+
+
+
 
 FECHANDO TÓPICOS
 
@@ -122,6 +159,8 @@ Tópicos são automaticamente fechados após 12 meses, se não houver novas resp
 Embora muitas vezes as mensagens não produtivas são excluídas, as vezes têm alguma relevância e em vez disso são fechados, assim a informação permanece mas a discussão não pode mais ser desenvolvida. Isto inclui, mas não se restringe a, mensagens sobre os seguintes temas: recomendações de hospedagem (a favor ou contra), conversas alheias (ou seja, não-WordPress), tópicos antigos ou ultrapassadas, tópicos claramente resolvidos, agressividade excessiva ou antagonismo e pedidos de suporte pago.
 
 Às vezes você pode notar que sua mensagem é fechada assim que você a publica. Isso significa que ela foi capturada pelo filtro de spam, que é um processo automatizado e às vezes pega mensagens por engano. Se isso acontecer, um moderador, então tem que liberar manualmente sua mensagem, por isso pode demorar um pouco para ser corrigido. Agradecemos sua paciência!
+
+
 
 SENDO ‘VIGIADO’ OU BANIDO
 
@@ -132,6 +171,8 @@ Se, contudo, suas ações piorarem, você será banido. Não existe um comportam
 Não é permitido assediar ninguém e você será banido se fizer isso.
 
 Resumindo: Se seus posts estão em moderação ou foram considerados spam, não entre em pânico, relaxe e talvez faça uma pausa. Nós ainda estaremos aqui.
+
+
 
 EXCLUINDO/EDITANDO PUBLICAÇÕES
 
@@ -147,6 +188,8 @@ Não publique nada que você não esteja 100% seguro de tornar público. Nós os
 
 Atenção autores de Plugin/Tema: Se usuários reclamarem de seus plugins, mesmo que eles estejam errados, não excluiremos seus posts. É sua responsabilidade representar-se bem e educá-los. Mesmo que você não esteja fazendo dos seus plugins um negócio, sua reputação é mais impactada pelo modo como você lida com as reclamações das pessoas do que pelo modo que elas lhe tratam.
 
+
+
 EXCLUINDO CONTAS
 
 Contas não são excluídas, nem mesmo as usadas apenas para spam, devido a limitações técnicas do sistema. Se você não quer mais usar os fóruns, clique em sair e não retorne. Sentiremos saudades!
@@ -155,13 +198,17 @@ Nomes de usuário também não podem ser modificados. Se você quer usar um nome
 
 Existem vários sistemas aos quais sua conta no fórum é conectada: fóruns de suporte, blogs do Participe, SVN do core, SVN dos plugins, SVN dos temas, SVN do meta e assim por diante. É uma bagunça tecnológica e nós sabemos que é irritante quando você quer abadonar tudo, ou se arrepende por um nome de usuário que não é muito profissional, mas é isso o que temos no momento.
 
-ENTRANDO EM CONTATO COM OS MODERADORES
+
+
+ENTRANDO EM CONTACTO COM OS MODERADORES
 
 Todos os moderadores são voluntários e se você precisa da ajuda de algum moderador por qualquer motivo, você pode publicar o seu pedido no fórum e marcar com a tag modlook, desta forma algum moderador vai olhar o tópico. Entretanto não abuse desta tag ou a sua conta será desativada.
 
 Se você usar a tag modlook para chamar a atenção para o seu tópico, você corre o risco de sua conta ser desativada.
 
 Lembre que os moderadores são seres humanos e não maquinas, desta forma evite de seguir eles até suas ‘casas’ ou enviar e-mails para solicitar ajudar ou xingar por algo feito (ou não) que você não gostou.
+
+
 
 COISAS PARA EVITAR E MAU COMPORTAMENTO
 
@@ -180,4 +227,4 @@ Note que toda a lista é apenas um pequeno exemplo de coisas que não devem sere
 
 E isso é tudo. Aproveite os fóruns, tire quantas dúvidas você quiser e ajude outras pessoas! Ahh, e não esqueça de marcar o tópico como “Resolvido” quando a sua dúvida for solucionada. Obrigado.
 
-Clique aqui para retornar para os fóruns
+Clique aqui para regressar ao fórum.
