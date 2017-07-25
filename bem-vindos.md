@@ -1,10 +1,10 @@
 Esta é a página de boas-vindas ao fórum de suporte ao WordPress em português de Portugal.
 
 Esperamos que este documento lhe possa ser útil, tal como um manual de iniciação rápida para  lhe ajudar a utilizar os fóruns e começar a tirar partido o mais rápidamente possível. 
-Antes de publicar certifique-se que a sua questão, dúvida ou pedido de ajuda diz respeito a recursos (plugins, temas, etc.) disponibilizados na plataforma do site wordpress.org e NÃO wordpress.com (em caso de dúvidas, poderá consultar o artigo [link?]As diferenças entre WordPress.com e WordPress.org[/link?] para compeender a diferença.
+Antes de publicar certifique-se que a sua questão, dúvida ou pedido de ajuda diz respeito a recursos (plugins, temas, etc.) disponibilizados na plataforma do site wordpress.org e NÃO wordpress.com (em caso de dúvidas, poderá consultar o artigo [link?]As diferenças entre WordPress.com e WordPress.org[/link?] para compreender a diferença.
 
 O objetivo principal deste fórum é auxiliar, ajudar ou simplesmente esclarecer quaisquer questões que envolvem quer o núcleo do WordPress, os temas e os plugins que são distribuídos na plataforma do site wordpress.org. Embora uma ou outra vez se possa falar ou até debater uma ou outra questão relacionada com temas ou plugins de origem comercial, a regra geral é 
-a de que pro aqui, não nos é possível dar apoio ou suporte a esses produtos comerciais. Para o efeito, deverão ser contactados as respetivas empresas e/ou entidades responsáveis.
+a de que por aqui, não nos é possível dar apoio ou suporte a esses produtos comerciais. Para o efeito, deverão ser contactados as respetivas empresas e/ou entidades responsáveis.
 
 
 
@@ -57,7 +57,7 @@ As etiquetas ajudam a melhor conseguir classificar o seu problema, permitindo um
 
 INCLUA O MÁXIMO DE INFORMAÇÃO POSSÍVEL
 
-Ao iniciar um novo pedido, tente colocar o máximo de detalhes que for possível sobre a sua dúvida ou problema. É recomendavel que inclua detalhes sobre o ambiente de hospedagem, a instalação do WordPress (plugins, temas, etc.) e especificamente, qual o problema que está a enfrentar.
+Ao iniciar um novo pedido, tente colocar o máximo de detalhes que for possível sobre a sua dúvida ou problema. É recomendavel que inclua detalhes sobre o ambiente de alojamento, a instalação do WordPress (plugins, temas, etc.) e especificamente, qual o problema que está a enfrentar.
 
 Caso consiga visualizar erros ou códigos de erros, tente copiar e colar no seu tópico. Incluir o erro completo será sempre preferível do que apenas um resumo sobre o mesmo, pois certas mensagens de erro podem ser importantes para diagnosticar e identificar possíveis soluções.
 
@@ -86,7 +86,7 @@ Quem se voluntaria para tentar responder às questão irá sempre pesquisar prim
 
 
 
-PUBLICAR CÓDIG FONTE
+PUBLICAR CÓDIGO FONTE
 
 Quando necessitar de ajuda ou esclarecimento com código de programação, poderá utilizar o votão “code” do editor para o efeito, o que irá fazer com que o o seu código seja apresentado entre plicas (`) de forma a ser corretamente exibido no tópico, mas tente não colocar grandes trechos de código, uma vez que isso irá complicar a leitura do texto o que poderá demorar na compreensão do seu problema. Mas use sempre bom senso.
 
@@ -104,7 +104,7 @@ Recorde-se que este fórum é público e que, por isso, não deverá publicar in
 
 SERVIÇOS PAGOS
 
-O WordPress é um software gratuito, tal como este fórum, pelo que é de todos desencorajada a utilização desta plataforma para oferecer ou solicitar serviços pagos e/ou comerciais. Para o efeito, a comunidade dispõe de um canal apropriado designado "Oportunidades" e, em certos casos, se não se conseguir encontrar soluções para as questões colocadas, poderá ser sugerido que coloque o seu pedido de apoio profissional no seguinte endereço:
+O WordPress é um software gratuito, tal como este fórum, pelo que é de todo desencorajada a utilização desta plataforma para oferecer ou solicitar serviços pagos e/ou comerciais. Para o efeito, a comunidade dispõe de um canal apropriado designado "Oportunidades" e, em certos casos, se não se conseguir encontrar soluções para as questões colocadas, poderá ser sugerido que coloque o seu pedido de apoio profissional no seguinte endereço:
  http://oportunidades.wp-portugal.com/
 
 
