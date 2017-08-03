@@ -1,16 +1,15 @@
 Esta é a página de boas-vindas ao fórum de suporte ao WordPress em português de Portugal.
 
-Esperamos que este documento lhe possa ser útil, tal como um manual de iniciação rápida para  lhe ajudar a utilizar os fóruns e começar a tirar partido o mais rápidamente possível. 
+Esperamos que este documento lhe possa ser útil, tal como um manual de iniciação para ajudar a utilizar os fóruns e começar a tirar partido o mais rapidamente possível. 
 Antes de publicar certifique-se que a sua questão, dúvida ou pedido de ajuda diz respeito a recursos (plugins, temas, etc.) disponibilizados na plataforma do site wordpress.org e NÃO wordpress.com (em caso de dúvidas, poderá consultar o artigo [link?]As diferenças entre WordPress.com e WordPress.org[/link?] para compreender a diferença.
 
-O objetivo principal deste fórum é auxiliar, ajudar ou simplesmente esclarecer quaisquer questões que envolvem quer o núcleo do WordPress, os temas e os plugins que são distribuídos na plataforma do site wordpress.org. Embora uma ou outra vez se possa falar ou até debater uma ou outra questão relacionada com temas ou plugins de origem comercial, a regra geral é 
-a de que por aqui, não nos é possível dar apoio ou suporte a esses produtos comerciais. Para o efeito, deverão ser contactados as respetivas empresas e/ou entidades responsáveis.
+O objetivo principal deste fórum é ajudar ou simplesmente esclarecer quaisquer questões que envolvem o núcleo do WordPress, os temas e os plugins que são distribuídos na plataforma do site wordpress.org. Embora uma ou outra vez se possa falar ou até debater uma ou outra questão relacionada com temas ou plugins de origem comercial, a regra geral é a de que por aqui, não nos é possível dar apoio ou suporte a esses produtos comerciais. Para o efeito, deverão ser contactados as respetivas empresas e/ou entidades responsáveis.
 
 
 
 ANTES DE PUBLICAR, PESQUISE
 
-Muitas das questões que são frequentemente colocadas no fórum já foram publicadas por outros membros em momentos anteriores, contendo inclusivamente, a solução para os respetivos problemas ou as pistas e/ou sugestões essenciais para se encontrar a solução, pelo que, antes de iniciar um novo tópico, tente pesquisar no fórum, uma vez que, quer os tópicos contidos no fórum, quer os conteúdos contidos no Codex são indexados pelo Google.
+Muitas das questões que são frequentemente colocadas no fórum já foram colocadas por outros membros em momentos anteriores, contendo inclusivamente, a solução para os respetivos problemas ou as pistas e/ou sugestões essenciais para se encontrar a solução, pelo que, antes de iniciar um novo tópico, tente pesquisar no fórum.
 
 Caso não consiga encontrar a resposta através das pesquisas no fórum, será sempre uma excelente ideia começar por pesquisar no Google. As pesquisas no Google podem ser filtradas de forma a devolver resultados apenas e somente a partir de conteúdos existentes no fórum, usando a seguinte sintaxe no campo de pesquisa do Google:
    site:pt.wordpress.org/support pesquisa (em que "pesquisa" será o termo pelo qual irá tentar encontrar resultados)
@@ -144,69 +143,58 @@ Evite ao máximo inciar ou promover conversas ou debates paralelos no fórum. Ca
 
 
 
+TÓPICOS FECHADOS
+
+Os tópicos são automaticamente fechados após 12 meses, caso não existam novas respostas. Também nos reservamos o direito de fechar as mensagens que são consideradas não produtivas para a comunidade.
+
+Por regra, as mensagens não produtivas são excluídas, porém caso tenham alguma relevância poderão ser fechadas. Desta forma, a informação permanece mas a discussão não pode mais ser continuada. Isto inclui, mas não se restringe a, mensagens sobre os seguintes temas: recomendações de alojamento (a favor ou contra), conversas alheias (ou seja, não-WordPress), tópicos antigos ou ultrapassadas, tópicos claramente resolvidos, agressividade excessiva ou antagonismo e pedidos de suporte pago.
+
+Pode acontecer a sua mensagem ser fechada assim que é publicada. Isto significa que ela foi capturada pelo filtro de spam (processo automático) que por vezes também se pode enganar. Se isso acontecer, um moderador, terá de 'libertar' manualmente a mensagem, num processo que pode não ser imediato. Agradecemos a sua paciência!
 
 
 
-[[ ### Não consegui continuar para além daqui ## ]]
+SER ‘VIGIADO’ OU BANIDO
 
+Algumas vezes, quando alguém está num dia menos bom, pode ver os seus comentários marcados para aprovação por um moderador. Esta medida é visa refrear os ânimos e não tem intenção de ser algo negativo. Apenas significa que o seu comportamento chamou a nossa atenção e nós queremos acompanhar e colaborar de forma positiva. Se isso acontecer, seja paciente. Nós analisaremos e aprovaremos os seus comentários rapidamente, ou vamos editá-los e respondê-los, apontando o que está errado.
 
+Se, contudo, as suas ações piorarem, será banido. Não existe um comportamento específico para que isso aconteça, mas basicamente se começar a atacar as pessoas, insultá-las, acusá-las, enviar e-mails com mensagens desagradáveis ou desafiar a autoridade dos moderadores, pode acabar sendo banido. A regra básica é não agir como uma pessoa má. Se é um adulto, então sabe como se comportar. Se não sabe se comportar ou não pode, então será banido.
 
-
-FECHANDO TÓPICOS
-
-Tópicos são automaticamente fechados após 12 meses, se não houver novas respostas. Também nos reservamos o direito de fechar as mensagens que são consideradas não produtivas para a comunidade.
-
-Embora muitas vezes as mensagens não produtivas são excluídas, as vezes têm alguma relevância e em vez disso são fechados, assim a informação permanece mas a discussão não pode mais ser desenvolvida. Isto inclui, mas não se restringe a, mensagens sobre os seguintes temas: recomendações de hospedagem (a favor ou contra), conversas alheias (ou seja, não-WordPress), tópicos antigos ou ultrapassadas, tópicos claramente resolvidos, agressividade excessiva ou antagonismo e pedidos de suporte pago.
-
-Às vezes você pode notar que sua mensagem é fechada assim que você a publica. Isso significa que ela foi capturada pelo filtro de spam, que é um processo automatizado e às vezes pega mensagens por engano. Se isso acontecer, um moderador, então tem que liberar manualmente sua mensagem, por isso pode demorar um pouco para ser corrigido. Agradecemos sua paciência!
-
-
-
-SENDO ‘VIGIADO’ OU BANIDO
-
-Algumas vezes, quando alguém está em um dia ruim, seus posts serão marcados de modo que eles precisem ser aprovados por um moderador. Esta é considerada uma tática para acalmar os ânimos e não tem intenção de ser algo ruim. Isto só significa que seu comportamento chamou a nossa atenção de uma maneira um pouco negativa e nós queremos ficar de olho em você. Se isso acontecer, seja paciente. Nós revisaremos e aprovaremos seus posts rapidamente, ou vamos editá-los e respondê-los, apontando o que está errado.
-
-Se, contudo, suas ações piorarem, você será banido. Não existe um comportamento específico para que isso aconteça, mas basicamente se você começar a atacar as pessoas, xingá-las, acusá-las, enviar e-mails com mensagens desagradáveis ou desafiar a autoridade dos moderadores, você pode acabar sendo banido. A regra básica é não agir como uma pessoa ruim. Se você é um adulto, você sabe como se comportar. Nós esperamos que você saiba e, se você não sabe se comportar ou não pode, você será banido.
-
-Não é permitido assediar ninguém e você será banido se fizer isso.
+Não é permitido assediar ninguém e será banido se fizer isso.
 
 Resumindo: Se seus posts estão em moderação ou foram considerados spam, não entre em pânico, relaxe e talvez faça uma pausa. Nós ainda estaremos aqui.
 
 
 
-EXCLUINDO/EDITANDO PUBLICAÇÕES
+EXCLUIR/EDITAR PUBLICAÇÕES
 
-Nós nos reservamos o direito de excluir tópicos ou respostas que são off-topic, isto é, não são relacionados aos assuntos tratados na comunidade, ou prejudiciais, embora não seja a política geral editar ou excluir posts do fórum a não ser que sejam spam, assediosos, ilegais ou abusivos. Nós não excluiremos seu post ou removeremos seu link só porque uma busca na Internet por um termo traz os fóruns antes das suas próprias URLs.
+Nós nos reservamos o direito de excluir tópicos ou respostas que são off-topic, isto é, não são relacionados aos assuntos tratados na comunidade, ou prejudiciais, embora não seja a política geral editar ou excluir comentários do fórum a não ser que sejam spam, assediosos, ilegais ou abusivos. 
 
-Usuários podem editar um post até 35 minutos depois de publicá-los. Depois disso, o post poderá ser editado somente por um moderador.
+Os utilizadores podem editar um comentário até 35 minutos depois de publicá-los. Depois disso, o post poderá ser editado somente por um moderador.
 
-Quando um post é feito e pessoas contribuem com respostas para um problema, isso se torna parte dos recursos da comunidade para que outros possam se beneficiar, e excluir posts diminui esse valor que havia sido agregado.
+Quando um comentário é feito e a comunidade contribui com respostas para um problema, o tópico passa a fazer parte dos recursos da comunidade para que outros possam beneficiar dele também, e excluir comentários diminui o valor que havia sido agregado.
 
 Tópicos do fórum só serão editados ou excluídos a critério dos moderadores se eles trouxerem alguma preocupação legal ou de segurança.
 
 Não publique nada que você não esteja 100% seguro de tornar público. Nós os excluiremos se nós concordarmos que é um problema grande o suficiente, mas “Meu SEO!” nunca é uma razão aceitável. (Lembre-se também que outros sites fazem cópias dos arquivos do fórum e nós não podemos fazer nada para controlar isso.)
 
-Atenção autores de Plugin/Tema: Se usuários reclamarem de seus plugins, mesmo que eles estejam errados, não excluiremos seus posts. É sua responsabilidade representar-se bem e educá-los. Mesmo que você não esteja fazendo dos seus plugins um negócio, sua reputação é mais impactada pelo modo como você lida com as reclamações das pessoas do que pelo modo que elas lhe tratam.
+Atenção autores de Plugin/Tema: Se existirem reclamações dos seus plugins, mesmo que estejam errados, não excluiremos estes comentários. É sua responsabilidade representar-se bem e educá-los. Mesmo que não esteja fazendo dos seus plugins um negócio, a sua reputação é mais impactada pelo modo como  lida com as reclamações das pessoas do que pelo modo que elas lhe tratam.
 
 
 
-EXCLUINDO CONTAS
+EXCLUIR CONTAS
 
-Contas não são excluídas, nem mesmo as usadas apenas para spam, devido a limitações técnicas do sistema. Se você não quer mais usar os fóruns, clique em sair e não retorne. Sentiremos saudades!
+Contas não são excluídas, nem mesmo aquelas usadas apenas para spam, devido a limitações técnicas do sistema. Se você não quer mais usar os fóruns, clique em sair e não retorne. Sentiremos saudades!
 
-Nomes de usuário também não podem ser modificados. Se você quer usar um nome de usuário diferente, então crie uma nova conta e pare de usar a antiga.
-
-Existem vários sistemas aos quais sua conta no fórum é conectada: fóruns de suporte, blogs do Participe, SVN do core, SVN dos plugins, SVN dos temas, SVN do meta e assim por diante. É uma bagunça tecnológica e nós sabemos que é irritante quando você quer abadonar tudo, ou se arrepende por um nome de usuário que não é muito profissional, mas é isso o que temos no momento.
+Nomes de utilizadores também não podem ser modificados. Se quer usar um nome diferente, então crie uma nova conta e deixe de usar a antiga.
 
 
+ENTRAR EM CONTACTO COM OS MODERADORES
 
-ENTRANDO EM CONTACTO COM OS MODERADORES
-
-Todos os moderadores são voluntários e se você precisa da ajuda de algum moderador por qualquer motivo, você pode publicar o seu pedido no fórum e marcar com a tag modlook, desta forma algum moderador vai olhar o tópico. Entretanto não abuse desta tag ou a sua conta será desativada.
+Todos os moderadores são voluntários e se você precisa da ajuda de algum moderador por qualquer motivo, você pode publicar o seu pedido no fórum e marcar com a tag modlook, desta forma algum moderador irá verificar o tópico. Entretanto não abuse desta tag ou a sua conta será desativada.
 
 Se você usar a tag modlook para chamar a atenção para o seu tópico, você corre o risco de sua conta ser desativada.
 
-Lembre que os moderadores são seres humanos e não maquinas, desta forma evite de seguir eles até suas ‘casas’ ou enviar e-mails para solicitar ajudar ou xingar por algo feito (ou não) que você não gostou.
+Lembre que os moderadores são seres humanos e não máquinas, desta forma evite seguir eles até suas ‘casas’ ou enviar e-mails para solicitar ajuda ou criticar por algo feito (ou não) que não gostou.
 
 
 
@@ -218,11 +206,11 @@ Os membros do fórum não devem publicar seus endereços de e-mail, pedir o e-ma
 Os membros do fórum não devem publicar informações de login, mesmo sendo senhas de teste.
 Os membros do fórum não devem publicar simplesmente para solicitar feedback sobre os seus site.
 Os membros do fórum, incluindo moderadores e autores de plugins e temas, nunca devem pedir por informações de acesso a servidores, FTP, MySQL ou instalação do WordPress.
-Assédio. Este parece obvio, mas por favor, não assedie ou abuse das pessoas. Não entre em contato com ninguém para fazer perguntas ou xingar, seja por e-mail, Facebook, Twitter ou sinal de fumaça.
-Não siga usuários ou moderadores até suas casas. Isto significa que você não deve entrar no site deles ou pegar o endereço, telefone, Twitter, Skype, Facebook ou qualquer forma de contato para fazer perguntas de suporte. Você pode pensar que isso não é um assédio, mas na verdade é.
-Spam, links de afiliados, tópicos duplicados, tópicos ofensivos, tópicos sem conteúdo e tópicos referentes a conteúdo adulto (neste caso não marcado como [NSFW]) serão deletados.
+Assédio. Este parece obvio, mas por favor, não assedie ou abuse das pessoas. Não entre em contato com ninguém para fazer perguntas ou insultar, seja por e-mail, Facebook, Twitter ou sinais de fumo.
+Não siga utilizadores ou moderadores até suas 'casas'. Isto significa que você não deve entrar no site deles ou pegar o endereço, telefone, Twitter, Skype, Facebook ou qualquer forma de contato para fazer perguntas de suporte. Você pode pensar que isso não é um assédio, mas na verdade é.
+Spam, links de afiliados, tópicos duplicados, tópicos ofensivos, tópicos sem conteúdo e tópicos referentes a conteúdo adulto (neste caso não marcado como [NSFW]) serão apagados.
 Não peça ajuda sobre temas ou plugins pagos. NÃO damos suporte para qualquer conteúdo pago, uma vez que você pagou e tem direito a suporte onde você comprou, sem esquecer que aqui não é o lugar para suporte corporativo.
-Publicação e títulos em Caps Lock (CAIXA ALTA). Isto em muitas culturas é considerado rude, como se o usuário estivesse gritando, então sempre evite este tipo de coisa.
+Publicação e títulos em Caps Lock (MAIÚSCULAS). Isto em muitas culturas é considerado rude, como se o utilizador estivesse gritando, então sempre evite este tipo de coisa.
 Note que toda a lista é apenas um pequeno exemplo de coisas que não devem serem feitas, além que cada tópico e mensagem são avaliados por seus próprios méritos, mas de regra geral basta ser educado e respeitar todo mundo que esta neste fórum, lembre-se de que todo mundo esta aqui ajudando como voluntário.
 
 E isso é tudo. Aproveite os fóruns, tire quantas dúvidas você quiser e ajude outras pessoas! Ahh, e não esqueça de marcar o tópico como “Resolvido” quando a sua dúvida for solucionada. Obrigado.
