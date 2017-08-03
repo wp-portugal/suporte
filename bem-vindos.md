@@ -52,11 +52,11 @@ Se necessitar de publicar grandes trechos de código, deverá utilizar ferrament
 <h2>NÃO PUBLIQUE INFORMAÇÃO CONFIDENCIAL OU SENSÍVEL</h2>
 Recorde-se que este fórum é público e que, por isso, não deverá publicar informação pessoal confidencial ou sensível, e muito menos senhas de acesso ou códigos para iniciar sessão no seu ou em outros sites.
 <h2>SERVIÇOS PAGOS</h2>
-O WordPress é um software gratuito, tal como este fórum, pelo que é de todo desencorajada a utilização desta plataforma para oferecer ou solicitar serviços pagos e/ou comerciais. Para o efeito, a comunidade dispõe de um canal apropriado designado "Oportunidades" e, em certos casos, se não se conseguir encontrar soluções para as questões colocadas, poderá ser sugerido que coloque o seu pedido de apoio profissional no seguinte endereço: http://oportunidades.wp-portugal.com/
+O WordPress é um software gratuito, tal como este fórum, pelo que é de todo desencorajada a utilização desta plataforma para oferecer ou solicitar serviços pagos e/ou comerciais. Para o efeito, a comunidade dispõe de um canal apropriado designado "Oportunidades" e, em certos casos, se não se conseguir encontrar soluções para as questões colocadas, poderá ser sugerido que coloque o seu pedido de apoio profissional no seguinte endereço: <a href="http://oportunidades.wp-portugal.com/">http://oportunidades.wp-portugal.com/</a>
 <h2>ONDE FOI PARAR A MINHA PUBLICAÇÃO?</h2>
-Se saiu do fórum e não conseguiu encontrar o seu tópico ao regressar, poderá consultar a lista de todos os tópicos em que participou na página do seu perfil. Para tal, deverá clicar na ligação [[?o seu nome de utilizador??]] no canto superior direito, no topo de cada página do fórum.
+Se saiu do fórum e não conseguiu encontrar o seu tópico ao regressar, poderá consultar a lista de todos os tópicos em que participou na página do seu perfil. Para tal, deverá clicar na ligação junto ao seu nome de utilizador no canto superior direito, no topo de cada página do fórum.
 
-Nota: A lingação para consultar o seu perfil só estará disponível depois iniciar sessão. (Caso pretenda iniciar agora, clique em (https://login.wordpress.org/?redirect_to=https://pt.wordpress.org/support/)
+Nota: A ligação para consultar o seu perfil só estará disponível depois iniciar sessão. (caso pretenda iniciar agora, clique <a href="https://login.wordpress.org/?redirect_to=https://pt.wordpress.org/support/">aqui</a> )
 
 Se publicou um tópico mas mesmo assim não o consegue encontrar, poderá dar-se o caso do mesmo ter ficado bloqueado pelo nosso filtro de prevenção de SPAM. Caso assim tenha ocorrido, não entre desespere. Um dos voluntários irá encontrá-lo e analisar o conteúdo que possa estar a ativar o filtro ou simplesmente aprovar o tópico e colocá-lo novamente disponmível para consulta pública.
 
