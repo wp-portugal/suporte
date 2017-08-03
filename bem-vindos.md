@@ -10,7 +10,7 @@ Caso não consiga encontrar a resposta através das pesquisas no fórum, será s
 
 Se encontrar um tópico mais antigo que descreva um problema semelhante ao seu, é recomendado que leia e que tente verificar se ajuda na solução do seu problema, mas, caso não resolva, não deverá colocar uma resposta nesse tópico, uma vez que o mesmo não irá obter destaque diante de quem se voluntaria para tentar ajudar. Inicie um novo tópico com a sua questão e mais rapidamente irá obter ajuda.
 <h2>ONDE PUBLICAR</h2>
-O fórum está organizado através de diversas secções, nomeadamente "Avisos e dicas importantes", "Instalação", "Problemas no funcionamento", "Temas e templates", "Plugins e hacks", "Questões avançadas", "Tradução", "Ideias", "Montra", "Alpha/Beta", "Miscelânea" e "Multisite". [[dúvida: colocar antes esta informação em árvore?]]
+O fórum está organizado através de diversas secções, nomeadamente "Avisos e dicas importantes", "Instalação", "Problemas no funcionamento", "Temas e templates", "Plugins e hacks", "Questões avançadas", "Tradução", "Ideias", "Montra", "Alpha/Beta", "Miscelânea" e "Multisite".
 
 Escolha a secção que mais se adequa à sua questão e publique apenas nessa secção, uma vez que as publicações duplicadas terão que ser eliminadas.
 
